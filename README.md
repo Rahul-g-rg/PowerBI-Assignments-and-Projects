@@ -21,6 +21,7 @@ This project involves analyzing a financial dataset using Power BI to uncover ke
 * Tooltips and slicers for enhanced user interaction.
   
 **Insightful Analysis**
+
 The following insights have been derived from the dataset using Power BI. The analysis demonstrates an understanding of key trends, patterns, and actionable insights:
 
 **1. Sales Performance**
