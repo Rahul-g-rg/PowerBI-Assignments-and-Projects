@@ -1,4 +1,4 @@
-#Financial Data Analysis with Power BI
+*Financial Data Analysis with Power BI*
 Overview
 This project involves analyzing a financial dataset using Power BI to uncover key trends, patterns, and actionable insights. The report includes interactive visualizations, KPIs, and a neat organization of data to provide meaningful insights for decision-making.
 
